@@ -1,0 +1,9 @@
+@startmindmap
+*[#Orange] Goal: Your Overall Goal
+ *[#lightgreen] <&people> Actor: My First Actor
+  *[#FFBBCC] Impact: Impact I Want the Actor to Have
+   * Goal: Goal 1
+   * Goal: Goal 2
+  *[#lightblue] Impact:Another Impact Iwant the Actor to Have
+ *[#lightgreen] <&people> Actor: My Second Actor
+@endmindmap
